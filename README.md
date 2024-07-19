@@ -5,8 +5,7 @@ Workflow Analysis and Data Exploration of Steam Game Data: Data Cleaning, Normal
 (IN-PROGRESS)
 By Lewis Freeston
 
-
- 
+**Requires formatting but current WIP.**
 
 
 Overview
